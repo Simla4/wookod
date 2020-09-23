@@ -1,0 +1,60 @@
+2020-09-04T21:39:47+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 2 numaralı satırda Uncaught Error: Call to undefined function language_attibutes() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2020-09-04T21:39:55+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 2 numaralı satırda Uncaught Error: Call to undefined function language_attibutes() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2020-09-04T21:40:04+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 2 numaralı satırda Uncaught Error: Call to undefined function language_attibutes() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2020-09-04T21:43:43+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 2 numaralı satırda Uncaught Error: Call to undefined function language_attibutes() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2020-09-04T21:45:02+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 9 numaralı satırda Uncaught Error: Call to undefined function wp_header() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+

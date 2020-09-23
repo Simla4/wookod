@@ -1,0 +1,30 @@
+2020-09-08T10:09:45+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 219 numaralı satırda Cannot redeclare ilgili_urunler_args() (previously declared in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php:206)
+
+2020-09-08T10:10:14+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 205 numaralı satırda Uncaught Error: Call to undefined function add_filte() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php:205
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-settings.php(514): include()
+#1 C:\xampp\htdocs\wookod\wp-config.php(79): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\wp-load.php(37): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wookod\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown
+
+2020-09-08T10:51:02+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\woocommerce\archive-product.php dosyasında 109 numaralı satırda syntax error, unexpected '<', expecting end of file
+
+2020-09-08T11:13:42+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 240 numaralı satırda syntax error, unexpected 'clearfix' (T_STRING), expecting ')'
+
+2020-09-08T12:53:40+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\page.php dosyasında 8 numaralı satırda syntax error, unexpected end of file
+
+2020-09-08T12:54:11+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\page.php dosyasında 9 numaralı satırda syntax error, unexpected end of file
+
+2020-09-08T12:54:24+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\page.php dosyasında 9 numaralı satırda syntax error, unexpected end of file
+
+2020-09-08T13:05:32+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\single.php dosyasında 19 numaralı satırda Uncaught Error: Call to undefined function coments_template() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\single.php:19
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+

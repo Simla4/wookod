@@ -1,0 +1,19 @@
+2020-09-12T10:36:13+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 287 numaralı satırda syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')'
+
+2020-09-12T10:36:46+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 294 numaralı satırda syntax error, unexpected '$checkout' (T_VARIABLE), expecting ',' or ')'
+
+2020-09-12T10:37:04+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 294 numaralı satırda syntax error, unexpected '$checkout' (T_VARIABLE), expecting ',' or ')'
+
+2020-09-12T10:42:57+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 300 numaralı satırda Uncaught Error: Call to undefined function ___() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php:300
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\class-wp-hook.php(287): ozel_alan_uyari('')
+#1 C:\xampp\htdocs\wookod\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\wookod\wp-content\plugins\woocommerce\includes\class-wc-checkout.php(1125): do_action('woocommerce_che...')
+#4 C:\xampp\htdocs\wookod\wp-content\plugins\woocommerce\includes\class-wc-form-handler.php(353): WC_Checkout->process_checkout()
+#5 C:\xampp\htdocs\wookod\wp-includes\class-wp-hook.php(287): WC_Form_Handler::checkout_action('')
+#6 C:\xampp\htdocs\wookod\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\wookod\wp-includes\plugin.php(478): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\wookod\wp-settings.php(568): do_action('wp_loaded')
+#9 C:\xampp\htdocs\wookod\w
+

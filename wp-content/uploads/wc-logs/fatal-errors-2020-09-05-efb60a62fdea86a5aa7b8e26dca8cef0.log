@@ -1,0 +1,48 @@
+2020-09-05T10:48:26+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 2 numaralı satırda Uncaught Error: Call to undefined function language_attibutes() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:2
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2020-09-05T10:49:48+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 9 numaralı satırda Uncaught Error: Call to undefined function wp_header() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php:9
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template.php(730): require_once()
+#1 C:\xampp\htdocs\wookod\wp-includes\template.php(676): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\wookod\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\wookod\wp-content\themes\wooshop\index.php(1): get_header()
+#4 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown
+
+2020-09-05T11:15:50+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 8 numaralı satırda syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')'
+
+2020-09-05T11:16:16+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 8 numaralı satırda syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')'
+
+2020-09-05T11:16:20+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 8 numaralı satırda syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')'
+
+2020-09-05T11:16:20+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 8 numaralı satırda syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')'
+
+2020-09-05T11:16:20+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 8 numaralı satırda syntax error, unexpected 'array' (T_ARRAY), expecting ',' or ')'
+
+2020-09-05T11:21:06+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 8 numaralı satırda syntax error, unexpected 's' (T_STRING), expecting ',' or ')'
+
+2020-09-05T12:54:59+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 3 numaralı satırda syntax error, unexpected ')', expecting '{'
+
+2020-09-05T12:55:23+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 3 numaralı satırda syntax error, unexpected ')', expecting '{'
+
+2020-09-05T12:55:23+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 3 numaralı satırda syntax error, unexpected ')', expecting '{'
+
+2020-09-05T21:10:16+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 23 numaralı satırda syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+
+2020-09-05T21:10:36+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 23 numaralı satırda syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+
+2020-09-05T21:10:39+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\header.php dosyasında 23 numaralı satırda syntax error, unexpected 'print_r' (T_STRING), expecting ',' or ';'
+

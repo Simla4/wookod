@@ -1,0 +1,70 @@
+2020-09-07T08:36:33+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 38 numaralı satırda syntax error, unexpected 'endif' (T_ENDIF)
+
+2020-09-07T13:07:26+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 51 numaralı satırda Uncaught Error: Call to undefined function the_fieldd() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php:51
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2020-09-07T13:07:55+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 51 numaralı satırda Uncaught Error: Call to undefined function the_fieldd() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php:51
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2020-09-07T13:13:48+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 54 numaralı satırda syntax error, unexpected 'field' (T_STRING)
+
+2020-09-07T14:07:13+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 135 numaralı satırda syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+
+2020-09-07T14:07:46+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 135 numaralı satırda syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+
+2020-09-07T14:10:02+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 135 numaralı satırda syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+
+2020-09-07T14:10:28+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 135 numaralı satırda syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+
+2020-09-07T14:11:23+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 121 numaralı satırda syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+
+2020-09-07T14:18:17+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 131 numaralı satırda Uncaught Error: Call to a member function html() on string in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php:131
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2020-09-07T14:20:44+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 135 numaralı satırda Uncaught Error: Call to undefined function woocommarce_template_loop_add_to_cart() in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php:135
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2020-09-07T14:30:57+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 140 numaralı satırda syntax error, unexpected ''. </span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+2020-09-07T14:32:13+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 136 numaralı satırda syntax error, unexpected ''. </span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+2020-09-07T14:35:11+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 136 numaralı satırda syntax error, unexpected ''. </span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+2020-09-07T14:37:26+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 136 numaralı satırda syntax error, unexpected ''. </span>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';'
+
+2020-09-07T17:48:48+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 184 numaralı satırda syntax error, unexpected end of file
+
+2020-09-07T17:50:47+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 175 numaralı satırda syntax error, unexpected 'endforeach' (T_ENDFOREACH)
+
+2020-09-07T18:10:11+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php dosyasında 209 numaralı satırda Uncaught Error: Call to a member function the_post() on null in C:\xampp\htdocs\wookod\wp-content\themes\wooshop\anasayfa.php:209
+Stack trace:
+#0 C:\xampp\htdocs\wookod\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\wookod\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wookod\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown
+
+2020-09-07T21:41:41+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 164 numaralı satırda syntax error, unexpected '*', expecting end of file
+
+2020-09-07T21:42:49+00:00 CRITICAL C:\xampp\htdocs\wookod\wp-content\themes\wooshop\functions.php dosyasında 165 numaralı satırda syntax error, unexpected '*', expecting end of file
+
